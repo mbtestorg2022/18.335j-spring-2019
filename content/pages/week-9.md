@@ -27,17 +27,99 @@ The exam is open notes and open book (including any material posted for the clas
 
 It will cover everything in this course up to and including Lecture 20 and Pset 4.
 
-| Midterm Exams | Solutions |
-| --- | --- |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spring 2019 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam19) | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spring 2019 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam19sol) |
-| {{< td-colspan 2 >}}Midterm Exams and Solutions from Previous Years{{< /td-colspan >}} ||
-| [Fall 2008 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam08) | [Fall 2008 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam08sol) |
-| [Fall 2009 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam09) | \[No Solutions\] |
-| [Fall 2010 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam10) | [Fall 2010 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam10sol) |
-| [Fall 2011 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam11) | [Fall 2011 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam11sol) |
-| [Fall 2012 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam12) | [Fall 2012 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam12sol) |
-| [Fall 2013 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam13) | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fall 2013 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam13sol) |
-| [Spring 2015 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam15) | [Spring 2015 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam15sol) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Midterm Exams
+{{< thclose >}}
+{{< thopen >}}
+Solutions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spring 2019 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam19)
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spring 2019 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam19sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+Midterm Exams and Solutions from Previous Years
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fall 2008 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam08)
+{{< tdclose >}}
+{{< tdopen >}}
+[Fall 2008 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam08sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fall 2009 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam09)
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Solutions\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fall 2010 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam10)
+{{< tdclose >}}
+{{< tdopen >}}
+[Fall 2010 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam10sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fall 2011 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam11)
+{{< tdclose >}}
+{{< tdopen >}}
+[Fall 2011 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam11sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fall 2012 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam12)
+{{< tdclose >}}
+{{< tdopen >}}
+[Fall 2012 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam12sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fall 2013 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam13)
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fall 2013 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam13sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Spring 2015 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam15)
+{{< tdclose >}}
+{{< tdopen >}}
+[Spring 2015 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam15sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture 25: Overview of Optimization Algorithms
 -----------------------------------------------
