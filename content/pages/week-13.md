@@ -33,7 +33,7 @@ An alternative approach (for real w ≥ 0, and w > 0 almost everywhere) is [Gau
 ### Further Reading
 
 *   [A Comparison of Some Methods for the Evaluation of Highly Oscillatory Integrals](https://doi.org/10.1016/S0377-0427(99)00213-7) (by G.A. Evans and J.R.Webster) describes the weighted Clenshaw-Curtis approach to oscillatory integrals.
-*   [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Numerical Approximation of Highly Oscillatory Integrals (PDF)](http://www.maths.usyd.edu.au/u/olver/papers/OlverThesis.pdf) by Sheehan Olver.
+*   [Numerical Approximation of Highly Oscillatory Integrals (PDF)](http://www.maths.usyd.edu.au/u/olver/papers/OlverThesis.pdf) by Sheehan Olver.
 *   Read “Lecture 37” in the textbook _Numerical Linear Algebra_.
 *   O(n) methods have been discovered to find the Gaussian quadrature points and weights; see the references in the Julia [FastGaussQuadrature](https://github.com/JuliaApproximation/FastGaussQuadrature.jl) package.
 *   An influential recent comparison of Clenshaw-Curtis and Gaussian quadrature is: Trefethen, Lloyd N. [Is Gauss Quadrature Better Than Clenshaw-Curtis?](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.157.4174), _SIAM Review_ 50 (1), 67-87 (2008).

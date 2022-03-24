@@ -91,7 +91,7 @@ PROBLEM SETS/EXAM AND SOLUTIONS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on the Accuracy of Naive Summation (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec3-1)
+[Notes on the Accuracy of Naive Summation (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec3-1)
 
 [Backwards Stability of Recursive Summation (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec3-2)
 

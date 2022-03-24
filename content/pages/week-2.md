@@ -19,8 +19,8 @@ More generally, we apply a weaker condition: "stability" = almost the right answ
 
 Often, it is sufficient to prove "backwards stability" = right answer for almost the right input. Showed that, in our example of adding a sequence of numbers, backwards stability seems to work where forwards stability failed. Then more rigorously proved that floating-point summation of _n_ numbers is backwards stable.
 
-*   Lecture 3 handout 1: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on the Accuracy of Naive Summation (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec3-1)
-*   Lecture 3 handout 2: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Backwards Stability of Recursive Summation (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec3-2)
+*   Lecture 3 handout 1: [Notes on the Accuracy of Naive Summation (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec3-1)
+*   Lecture 3 handout 2: [Backwards Stability of Recursive Summation (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec3-2)
 
 ### Further Reading
 

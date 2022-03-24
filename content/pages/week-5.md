@@ -20,7 +20,7 @@ Discussion of spatial locality and cache lines, with examples of dot products an
 
 *   [Automatically Tuned Linear Algebra Software (ATLAS)](http://math-atlas.sourceforge.net/)
 *   [Cache-Oblivious Algorithms](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.34.7911) by Matteo Frigo, et al.
-*   [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Register Allocation in Kernel Generators (PDF)](http://cscads.rice.edu/workshops/july2007/autotune-slides-07/Frigo.pdf) by Matteo Frigo
+*   [Register Allocation in Kernel Generators (PDF)](http://cscads.rice.edu/workshops/july2007/autotune-slides-07/Frigo.pdf) by Matteo Frigo
 *   [Row- and column-major order](http://en.wikipedia.org/wiki/Row-major_order) on Wikipedia
 
 Lecture 13: LU Factorization and Partial Pivoting

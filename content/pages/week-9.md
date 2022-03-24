@@ -42,10 +42,10 @@ Solutions
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spring 2019 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam19)
+[Spring 2019 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam19)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spring 2019 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam19sol)
+[Spring 2019 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam19sol)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ Midterm Exams and Solutions from Previous Years
 [Fall 2013 Exam (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam13)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fall 2013 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam13sol)
+[Fall 2013 Solutions (PDF)]({{< baseurl >}}/resources/mit18_335js19_exam13sol)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +142,7 @@ Outlined application of nonlinear CG to Hermitian eigenproblems by minimizing th
 *   Online book [_Convex Optimization_](http://web.stanford.edu/~boyd/cvxbook/) by Stephen Boyd and Lieven Vandenberghe.
 *   Conn, Andrew R. et al. _Introduction to Derivative-Free Optimization_. SIAM: Society for Industrial and Applied Mathematics, 2009. ISBN: 9780898716689.
 *   A useful review of topology-optimization methods can be found in [Topology Optimization Approaches](https://link.springer.com/article/10.1007/s00158-013-0978-6) by Ole Sigmund and Kurt Maute.
-*   There are many variants of nonlinear conjugate-gradient, mainly to avoid bad behavior far from the minimum, as surveyed by William Hager and Hongchao Zhang, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Survey of Nonlinear Conjugate Gradient Methods (PDF)](http://people.cs.vt.edu/~asandu/Public/Qual2011/Optim/Hager_2006_CG-survey.pdf). _Pacific J. Optim._ 2, pp. 35-58 (2006).
+*   There are many variants of nonlinear conjugate-gradient, mainly to avoid bad behavior far from the minimum, as surveyed by William Hager and Hongchao Zhang, [A Survey of Nonlinear Conjugate Gradient Methods (PDF)](http://people.cs.vt.edu/~asandu/Public/Qual2011/Optim/Hager_2006_CG-survey.pdf). _Pacific J. Optim._ 2, pp. 35-58 (2006).
 
 Lecture 26: Adjoint Methods
 ---------------------------

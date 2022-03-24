@@ -48,7 +48,7 @@ Overview of floating-point representations, focusing on the IEEE 754 standard (s
 ### Further Reading
 
 *   [What Every Computer Scientist Should Know About Floating Point Arithmetic](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.22.6768) by David Goldberg.
-*   [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)How Java’s Floating-Point Hurts Everyone Everywhere (PDF)](http://www.cs.berkeley.edu/~wkahan/JAVAhurt.pdf) by William Kahan and Joseph Darcy. This article contains a nice discussion of floating-point myths and misconceptions.
+*   [How Java’s Floating-Point Hurts Everyone Everywhere (PDF)](http://www.cs.berkeley.edu/~wkahan/JAVAhurt.pdf) by William Kahan and Joseph Darcy. This article contains a nice discussion of floating-point myths and misconceptions.
 *   Read “Lecture 13” in the textbook _Numerical Linear Algebra_.
 
 Julia Tutorial

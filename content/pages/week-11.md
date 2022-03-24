@@ -29,11 +29,11 @@ Lecture 30: Quasi-Newton Methods and the BFGS Algorithm; Lecture 31: Derivatio
 
 Began discussing quasi-Newton methods in general, and the Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm in particular, following the handout below. Quasi-Newton methods are methods used to either find zeroes or local maxima and minima of functions, as an alternative to Newton's method. In numerical optimization, the BFGS algorithm is an iterative method for solving unconstrained nonlinear optimization problems.
 
-*   Lectures 30–31 handout: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quasi-Newton Optimization: Origin of the BFGS Update (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec30)
+*   Lectures 30–31 handout: [Quasi-Newton Optimization: Origin of the BFGS Update (PDF)]({{< baseurl >}}/resources/mit18_335js19_lec30)
 
 ### Further Reading
 
 *   [Quasi-Newton method](http://en.wikipedia.org/wiki/Quasi-Newton_methods) on Wikipedia
 *   [Broyden-Fletcher-Goldfarb-Shanno algorithm](http://en.wikipedia.org/wiki/BFGS_method) on Wikipedia
-*   [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)A New Derivation of Symmetric Positive Definite Secant Updates (PDF - 1.4MB)](https://www.sciencedirect.com/science/article/pii/B9780124686625500124) by J.E. Dennis, Jr and Robert B. Schnabel.
-*   [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Linear Algebra of Block Quasi-Newton Algorithms (PDF)](http://www.cs.umd.edu/~oleary/reprints/j39.pdf) by Dianne P. O'Leary and A. Yeremin.
+*   [A New Derivation of Symmetric Positive Definite Secant Updates (PDF - 1.4MB)](https://www.sciencedirect.com/science/article/pii/B9780124686625500124) by J.E. Dennis, Jr and Robert B. Schnabel.
+*   [The Linear Algebra of Block Quasi-Newton Algorithms (PDF)](http://www.cs.umd.edu/~oleary/reprints/j39.pdf) by Dianne P. O'Leary and A. Yeremin.

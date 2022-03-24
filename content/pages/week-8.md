@@ -24,7 +24,7 @@ Derived the conjugate-gradient method, by explicitly requiring that the nth step
 *   On MINRES and SYMMLQ: [Differences in the Effects of Rounding Errors in Krylov Solvers for Symmetric Indefinite Linear Systems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.3064) by Gerard L.G. Sleijpen et al.
 *   Online book [_Templates for the Solution of Algebraic Eigenvalue Problems: A Practical Guide_](http://www.cs.utk.edu/~dongarra/etemplates/book.html) by Zhaojun Bai et al.
 *   Read “Lecture 38” in the textbook _Numerical Linear Algebra_.
-*   [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)An Introduction to the Conjugate Gradient Method without the Agonizing Pain (PDF)](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) by Jonathan Richard Shewchuk.
+*   [An Introduction to the Conjugate Gradient Method without the Agonizing Pain (PDF)](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) by Jonathan Richard Shewchuk.
 
 Lecture 22: Convergence of Conjugate Gradient
 ---------------------------------------------
